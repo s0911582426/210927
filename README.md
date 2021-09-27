@@ -10,9 +10,22 @@
 
 #### 題目：
 
+😄
+
 [我的網頁](https://www.nkust.edu.tw/index.php)
 
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "高科大")
 
-This is 'text'
+![new_fig](https://hanejapan.com/wp-content/uploads/2021/07/4758455_m-1024x683.jpg "狗")
 
+This is `text`.
+
+````
+This is a long quote.
+````
+
+- [x] this is checked
+- [ ] undo
+- [ ] 2nd job
+- [ ] 3rd job
+- [ ] 4th work
