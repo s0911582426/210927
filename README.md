@@ -50,14 +50,14 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 
 > 3.Actual numbers don't matter, just that it's a number
 >> ..1.Ordered sub-list
-
+>>
 >> ..2.2nd
 
 > 4.And another item
 >> ...* note 1
-
+>>
 >> ...* note 2
-
+>>
 >> *** note 3
 ***
 
