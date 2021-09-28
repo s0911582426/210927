@@ -40,25 +40,25 @@ Combined emphasis with **asterisks** and ***underscores***.
 Strikethrough uses two tildes. ~~Scratch this~~.
 ***
 
->1.First ordered list item
+> 1.First ordered list item
 
->2.Another item
+> 2.Another item
 
->>..* Unordered sub-list.
+>> ..* Unordered sub-list.
 
->3.Actual numbers don't matter, just that it's a number
+> 3.Actual numbers don't matter, just that it's a number
 
->>..1.Ordered sub-list
+>> ..1.Ordered sub-list
 
->>..2.2nd
+>> ..2.2nd
 
->4.And another item
+> 4.And another item
 
->>...* note 1
+>> ...* note 1
 
->>...* note 2
+>> ...* note 2
 
->>*** note 3
+>> *** note 3
 ***
 
 - [ ] todo list
@@ -68,7 +68,7 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 python code
 
 
-```js
+```python
 s = "Python syntax highlighting"
 print s
 ```
@@ -76,7 +76,7 @@ print s
 
 javascript code
 
-```js
+```javascript
 var s ="JavaScript syntax highlighting";
 alert(s);
 ```
@@ -98,5 +98,5 @@ raw Markdown line up prettily. You can also use inline Markdown.
 
 | Markdown	| Less	| Pretty | 
 | :-------- | :---: | -----: | 
-| Still	| renders	| niceky| 
+| Still	| `renders`	| niceky | 
 | 1	| 2	| 3 | 
