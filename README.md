@@ -98,5 +98,5 @@ raw Markdown line up prettily. You can also use inline Markdown.
 
 | Markdown	| Less	| Pretty | 
 | :-------- | :---: | -----: | 
-| Still	| `renders`	| niceky | 
+| Still	| `renders`	| **niceky** | 
 | 1	| 2	| 3 | 
