@@ -40,7 +40,7 @@ Strong emphasis, aka bold, with **asterisks** or **underscores**.
 
 Combined emphasis with **asterisks and *underscores***.
 
-Strikethrough uses two tildes. ~~Scratch this.
+Strikethrough uses two tildes. ~~Scratch this.~~
 ***
 
 > 1.First ordered list item
